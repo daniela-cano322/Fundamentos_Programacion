@@ -1,2 +1,2 @@
 # Fundamentos_Programacion
-Trabajo realizado durante el primer semestre
+Actividade asíncronas realizadas durante el primer semestre de fundamentos de programación
